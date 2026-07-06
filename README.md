@@ -91,7 +91,7 @@ genomic-causal-inference/
 ### Option A — pip install (editable)
 
 ```bash
-git clone https://github.com/<your-username>/genomic-causal-inference.git
+git clone https://github.com/Amin-Jarrahi/genomic-causal-inference.git
 cd genomic-causal-inference
 pip install -e ".[dev]"
 ```
@@ -99,7 +99,7 @@ pip install -e ".[dev]"
 ### Option B — requirements only
 
 ```bash
-git clone https://github.com/<your-username>/genomic-causal-inference.git
+git clone https://github.com/Amin-Jarrahi/genomic-causal-inference.git
 cd genomic-causal-inference
 pip install -r requirements.txt
 ```
@@ -234,10 +234,10 @@ If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{jarrahi2026genomic_causal,
-  author    = {Jarrahi, Alex},
+  author    = {Jarrahi, Alex(Amin)},
   title     = {Genomic Causal Inference Pipeline},
   year      = {2026},
-  url       = {https://github.com/<your-username>/genomic-causal-inference}
+  url       = {https://github.com/Amin-Jarrahi/genomic-causal-inference}
 }
 ```
 
