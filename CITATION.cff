@@ -4,10 +4,10 @@ message: "If you use this software, please cite it as below."
 type: software
 authors:
   - family-names: Jarrahi
-    given-names: Alex
-    email: ajarrahi@vols.utk.edu
+    given-names: Alex (Amin)
+    email: alexajarrahi@gmail.com
     affiliation: "University of Tennessee, Knoxville"
-repository-code: "https://github.com/<your-username>/genomic-causal-inference"
+repository-code: "https://github.com/Amin-Jarrahi/genomic-causal-inference"
 license: MIT
 version: "1.0.0"
 date-released: "2026-01-01"
