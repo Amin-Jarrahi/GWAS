@@ -10,7 +10,7 @@ authors:
 repository-code: "https://github.com/Amin-Jarrahi/genomic-causal-inference"
 license: MIT
 version: "1.0.0"
-date-released: "2026-01-01"
+date-released: "2026-07-06"
 keywords:
   - genomics
   - causal inference
