@@ -17,8 +17,8 @@ Modules:
 """
 
 __version__ = "1.0.0"
-__author__ = "Alex Jarrahi"
-__email__ = "ajarrahi@vols.utk.edu"
+__author__ = "Alex(Amin) Jarrahi"
+__email__ = "alexajarrahi@gmail.com"
 
 from genomic_causal.config import Config
 from genomic_causal.pipeline import run_pipeline
