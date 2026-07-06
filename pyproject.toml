@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 authors = [
-    {name = "Alex Jarrahi", email = "ajarrahi@vols.utk.edu"},
+    {name = "Alex Jarrahi", email = "alexajarrahi@gmail.com"},
 ]
 keywords = ["genomics", "causal-inference", "mendelian-randomization", "GWAS", "machine-learning", "SNP"]
 classifiers = [
@@ -50,9 +50,9 @@ dev = [
 genomic-causal = "genomic_causal.pipeline:main"
 
 [project.urls]
-Homepage = "https://github.com/<your-username>/genomic-causal-inference"
-Repository = "https://github.com/<your-username>/genomic-causal-inference"
-Issues = "https://github.com/<your-username>/genomic-causal-inference/issues"
+Homepage = "https://github.com/Amin-Jarrahi/genomic-causal-inference"
+Repository = "https://github.com/Amin-Jarrahi/genomic-causal-inference"
+Issues = "https://github.com/Amin-Jarrahi/genomic-causal-inference/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
